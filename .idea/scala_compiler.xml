@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="nullEffect-scala.youtube-spark,youtube-spark,youtube-spark_4355" />
+  </component>
+</project>
