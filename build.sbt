@@ -17,7 +17,7 @@ val scala3Version = "3.3.1"
 libraryDependencies += "org.apache.spark" % "spark-sql-kafka-0-10_2.13" % "3.5.1" //% Test
 
 //libraryDependencies += "org.apache.spark" % "spark-core_2.13" % "3.5.1"
-libraryDependencies += "org.apache.spark" % "spark-sql_2.13" % "3.5.1" //% "provided"  //SparkSession
+libraryDependencies += "org.apache.spark" % "spark-sql_2.13" % "3.5.0" //% "provided"  //SparkSession
 //libraryDependencies += "org.apache.kafka" % "kafka-streams" % "3.7.0"
 //libraryDependencies
 //dependencyOverrides += "com.fasterxml.jackson.core" % "jackson-databind" % "2.15.1"
